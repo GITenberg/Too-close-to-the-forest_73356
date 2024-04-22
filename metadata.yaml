@@ -1,5 +1,8 @@
 _repo: Too-close-to-the-forest_73356
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73356-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Reynolds, Al
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33100
     wikipedia: https://en.wikipedia.org/wiki/Bryce_Walton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73356#Too-close-to-the-forest
 gutenberg_issued: '2024-04-08'
 gutenberg_type: Text
 identifiers:
